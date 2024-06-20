@@ -1,0 +1,35 @@
+.box {
+  padding: 50px;
+  margin: 100px 0px;
+  border: 1px solid gray;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: white;
+}
+
+.bottom_box {
+  border: 1px solid gray;
+  /* padding: 10px 0px; */
+  border-radius: 6px;
+}
+
+.top_text {
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.button {
+  border: 1px solid transparent;
+  border-radius: 24px;
+  padding: 5px 20px;
+  background-color: rgb(195, 0, 32);
+  color: white;
+  font-size: 16px;
+}
+
+.result {
+  background-color: rgba(250, 212, 218, 0.411);
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+}
